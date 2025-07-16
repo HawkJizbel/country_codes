@@ -1,4 +1,4 @@
-"Country","Alpha-2 code","Alpha-3 code","Numeric code","Latitude (average)","Longitude (average)"
+"Country","Country Code","Alpha-3 code","Numeric code","Capital Latitude","Capital Longitude"
 "Afghanistan", "AF", "AFG", "4", "33", "65"
 "Åland Islands", "AX", "ALA", "248",  "60.116667", "19.9"
 "Albania", "AL", "ALB", "8", "41", "20"
